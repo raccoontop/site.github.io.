@@ -41,6 +41,13 @@ nav a:hover {
     color: #333;
 }
 
+.line-image {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    display: block;
+}
+
 .table {
     width: 100%;
     border-collapse: collapse;
